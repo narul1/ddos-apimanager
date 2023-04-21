@@ -35,7 +35,7 @@ app.get('/', (req, res) => {
               <body>
                 <h1>Request send sucesfully</h1>
                 <p>Host: ${host}</p>
-                <p>Time: ${time} sekund</p>
+                <p>Time: ${time}</p>
                 <p>Method: ${method}</p>
               </body>
             </html>
@@ -66,7 +66,7 @@ app.get('/', (req, res) => {
               <body>
                 <h1>Request send sucesfully</h1>
                 <p>Host: ${host}</p>
-                <p>Time: ${time} sekund</p>
+                <p>Time: ${time}</p>
                 <p>Method: ${method}</p>
               </body>
             </html>
